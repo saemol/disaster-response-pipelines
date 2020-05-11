@@ -70,17 +70,19 @@ ML Pipeline Preparation.ipynb: Notebook where pipeline is built and deployed
 
 AdaBoost results:
 
-## ![AdaBoost results](C:\Users\SM\Documents\Udacity Data Scientist\disaster-response\disaster-response-pipelines\screenshots\AdaBoost results.png)
+![AdaBoost](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/AdaBoost%20results.png)
+
+
 
 Classification:
 
-![disaster](C:\Users\SM\Documents\Udacity Data Scientist\disaster-response\disaster-response-pipelines\screenshots\disaster.png)
+![disaster](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/disaster.png)
 
 
 
-Plotly charts:![context](C:\Users\SM\Documents\Udacity Data Scientist\disaster-response\disaster-response-pipelines\screenshots\context.png)
+Plotly charts:![context](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/context.png)
 
-![newplot](C:\Users\SM\Documents\Udacity Data Scientist\disaster-response\disaster-response-pipelines\screenshots\newplot.png)
+![distribution](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/newplot.png)
 
 ## Acknowledgments
 
