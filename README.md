@@ -80,7 +80,9 @@ Classification:
 
 
 
-Plotly charts:![context](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/context.png)
+Plotly charts:
+
+![context](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/context.png)
 
 ![distribution](https://github.com/saemol/disaster-response-pipelines/blob/master/screenshots/newplot.png)
 
