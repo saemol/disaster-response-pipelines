@@ -1,2 +1,2 @@
-# disaster-response-piplines
+# disaster-response-pipelines
 Machine learning predictions on disaster data
